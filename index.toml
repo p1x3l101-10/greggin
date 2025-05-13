@@ -915,11 +915,6 @@ hash = "5fd8f8cce1c663ed4cc042889a6a425a495d319d2e23e6cbde7f81d1a767b3e9"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
 metafile = true
@@ -1157,11 +1152,6 @@ metafile = true
 [[files]]
 file = "mods/libx.pw.toml"
 hash = "2c255a6aff5c016d8769777fd9e23f4bbc256d103fb45eef12b1d6af77249ba1"
-metafile = true
-
-[[files]]
-file = "mods/lodentityrendering.pw.toml"
-hash = "7a77a2dc5497c8279f97918bfc35f8acc3a4b67c4d49c9947cc36e1a1662dc65"
 metafile = true
 
 [[files]]
