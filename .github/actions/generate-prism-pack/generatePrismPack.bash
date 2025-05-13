@@ -92,6 +92,9 @@ InstanceType=OneSix
 iconKey=default
 name=$(yq '.name' ./pack.toml)
 EOF
+if [[ -e ./icon.png ]]; then
+  cp ./icon.png $WORKDIR/minecraft/icon.png
+fi
 pushd $WORKDIR || exit 1
 zip -r ./instance.zip ./instance.cfg ./minecraft ./patches ./mmc-pack.json
 popd || exit 1
