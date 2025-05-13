@@ -306,7 +306,7 @@ hash = "eda7204d996eba31bba8a388f641c0826a2610f1e4471cd50803f1969b9cedbd"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
-hash = "1a5f258f77a60659432055e96537e957b6810407de134db8016caf2a11777bb1"
+hash = "0962632311e91ecd41dc83c81ffdf0be8bb6b0ee1512e51ad73b9e40a47f8e62"
 
 [[files]]
 file = "config/modelfix-client.toml"
