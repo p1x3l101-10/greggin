@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uBKACKpl/versions/za2dJzYV/Shimmer-forge-1.20.1-0.2.4.jar"
-hash-format = "sha512"
-hash = "c67b5bac7e981345818b196ea24cd367d42b3329108ad5aca1c33648c0527572785728de526b905f0ae779e38dd476a0846041f02dfb64a844f632986f8709ab"
+hash-format = "sha256"
+hash = "9ee9dae5eac77ab20a26e42a638709147427625717adececc490a90a7981f332"
 
 [update]
 [update.modrinth]

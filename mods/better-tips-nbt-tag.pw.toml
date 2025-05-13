@@ -3,8 +3,8 @@ filename = "Better Tags-1.20.1-1.4.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "6a443c16a679f33d91f1b9a104dc15d1896f77dc"
+hash-format = "sha256"
+hash = "1ca700a5d13bcd512a96341fadebffd4c1c3e71817eb394e8da60f58d02823bf"
 mode = "metadata:curseforge"
 
 [update]

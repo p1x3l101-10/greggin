@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zZluixcp/versions/8VZwO2oY/forge_soundattractmod_1.20.1-2.0.5.jar"
-hash-format = "sha512"
-hash = "dd45ba45e0ed941b663a232fab9c835ffa59420f8552b7cbe7d139db4dcb39a4405613b3b384ae94f535075f6a7c83a394c16821862fd8008d96ff5cc8f90f14"
+hash-format = "sha256"
+hash = "eb45f82b7a3a6849c7ff4b020d85744e13de9af5b7f97d2ec50502781aaccd9b"
 
 [update]
 [update.modrinth]

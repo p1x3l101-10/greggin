@@ -3,8 +3,8 @@ filename = "JAVD-Forge-5.0.1+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a1973dc568d8f1b40cdd5a48906e59d108e2662e"
+hash-format = "sha256"
+hash = "2af488ba98b2b3c608516eb0ee88a38e45f505583681cfb03482a7bb12b91fd0"
 mode = "metadata:curseforge"
 
 [update]

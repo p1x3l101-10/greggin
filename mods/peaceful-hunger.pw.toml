@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NGEcCZ3C/versions/r56X8mXH/peaceful_hunger-merged-1.20.1-1.0.2.jar"
-hash-format = "sha512"
-hash = "d49df3bf726564c90ae3ee148415aa4a58d522de756ff730b4fac22348bbb6a7c02f992426e9ed4aa9087df121d621c21067b3f9d1464a9ec9c7bde04e750289"
+hash-format = "sha256"
+hash = "34d77ce92e1fe51220b59e2935e531c9734f13a0964bda55c600023a57217f31"
 
 [update]
 [update.modrinth]

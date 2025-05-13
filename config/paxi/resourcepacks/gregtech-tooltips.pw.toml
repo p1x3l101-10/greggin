@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/mfSfNMqJ/versions/KtBoniKD/GregTech%20tooltips.zip"
-hash-format = "sha512"
-hash = "385d2c638f2f3d767f16254b18da0ee3b39b1b193b7ee026bf0d26aab75443a2eefe20954c0866280c83aade5b66a35b2ec143bd82457efcd8eae6ddc3f31a22"
+hash-format = "sha256"
+hash = "b7ea67e6b645db5b87584451d023c3a3275377600fe6d1425a45e0abee1784e8"
 
 [update]
 [update.modrinth]

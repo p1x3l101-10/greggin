@@ -3,8 +3,8 @@ filename = "InventoryProfilesNext-forge-1.20-1.10.14.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f733fc7a3a97277ff4a897e9f55bb01cecc47209"
+hash-format = "sha256"
+hash = "94c0b2f76687fec9cdfe1e530f78fd0b41f0152afab78b1193256f8db1b9817c"
 mode = "metadata:curseforge"
 
 [update]

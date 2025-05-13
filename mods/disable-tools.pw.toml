@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4ZdHmiO8/versions/X8rOr9bw/disable_tools-1.20.1-1.2.1.jar"
-hash-format = "sha512"
-hash = "236f774c8c52ad60dbbb3b74883d092c512ba2abb670799a810ff7d03eb38f6afb3daeb879cc0101ab1f71fdbefd775205df1a158f3fc652e70680cfe98a5e4a"
+hash-format = "sha256"
+hash = "e8b5363aec0fcff48973172873b4fcd42425e3767880f839e7a7337231aa6307"
 
 [update]
 [update.modrinth]

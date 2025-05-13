@@ -3,8 +3,8 @@ filename = "EnderStorage-1.20.1-2.11.0.188-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "19a4935881634bdb98aad4aba6e548b13ffaded7"
+hash-format = "sha256"
+hash = "cb6d1c4594f61e89fab2b9e16daffecfab8bab25936684a2d75f2f0fe6eb028f"
 mode = "metadata:curseforge"
 
 [update]

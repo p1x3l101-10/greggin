@@ -3,8 +3,8 @@ filename = "FpsReducer2-forge-1.20-2.5.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "d7d5af20faa2bd7012aa2d34b5804324aa273092"
+hash-format = "sha256"
+hash = "4edeec5c3dc690e06a647dd5f4d5cd4f95330e0d0b0d7aceb3748f10dbd64b90"
 mode = "metadata:curseforge"
 
 [update]

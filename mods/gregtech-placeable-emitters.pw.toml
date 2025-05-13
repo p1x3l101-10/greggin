@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zFPjQErD/versions/q17d8KId/greg_emitters-1.20.1-1.0.9.jar"
-hash-format = "sha512"
-hash = "61eb9df9877bea1bf30b730676e4029425ac9d34552e96c6acd80b0ba0ab2fa5e6d4d2e0b14eaacfb9d6f7983d31d353f4a9feb6dc94dbd53934340e73580027"
+hash-format = "sha256"
+hash = "6f9a19797bc2691b0be17c8ea154195d8471839b0b76833f78f61f2b6a3c2c77"
 
 [update]
 [update.modrinth]

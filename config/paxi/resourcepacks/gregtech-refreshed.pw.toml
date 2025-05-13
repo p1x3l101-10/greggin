@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZemCyvLM/versions/3p8J0LqP/GregTech%20Refreshed%20v0.7%20%5BModern%5D.zip"
-hash-format = "sha512"
-hash = "a7944585d07ea19249d0ca2e869e6d573adb2bf3957f08134c516535eafad84a2820bf8ded13a906d7d812f21be3154297fad1d45ddaead0804419ac79cdebca"
+hash-format = "sha256"
+hash = "0cc2f83fc0a8be51ab809dc51fc5b56384de6910cbcaf859347dcd7decd4e6dc"
 
 [update]
 [update.modrinth]

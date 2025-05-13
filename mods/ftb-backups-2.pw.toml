@@ -3,8 +3,8 @@ filename = "ftbbackups2-forge-1.20-1.0.23.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4b100de40338247a3fbf4d1fd1846257c5338189"
+hash-format = "sha256"
+hash = "19cea280a56e533b9669d4f866aef38ebe54f6d8627efe6798016e17b6b4afda"
 mode = "metadata:curseforge"
 
 [update]

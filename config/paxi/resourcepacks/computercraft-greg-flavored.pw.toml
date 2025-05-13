@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/X4yzdg2X/versions/TTkZyh1f/ComputerCraft%20Greg%20Refreshed%201.1%20-%201.20.1.zip"
-hash-format = "sha512"
-hash = "747ea2044ea90b7292528822cb75d0b850464c99227987ba792ddd559cab3b525e59c612918e5da658943955f180a2b7de03364ed24b210d16d4e9cae177f038"
+hash-format = "sha256"
+hash = "0fad834485e0ac199ff0b5028c6f319c50e2216db2f1f09e382e22c92564a7ad"
 
 [update]
 [update.modrinth]

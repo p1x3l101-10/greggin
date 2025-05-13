@@ -3,8 +3,8 @@ filename = "ToastControl-1.20.1-8.0.3.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "e9ef48672f01b076ea3b8c7c5e6a139c2491a67c"
+hash-format = "sha256"
+hash = "e9923900cabbc12ffde7cc36113936f24b773bb33b22c19e4109cca52fc55ad6"
 mode = "metadata:curseforge"
 
 [update]

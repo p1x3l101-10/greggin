@@ -3,8 +3,8 @@ filename = "lootjs-forge-1.20.1-2.12.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5e0d8b4d398780946f295b31b7b65bf201d7dcc7"
+hash-format = "sha256"
+hash = "3d9972c1552cd0de3a9b8ee4c7af342056a17a81e7645d2b8eefededc911a329"
 mode = "metadata:curseforge"
 
 [update]

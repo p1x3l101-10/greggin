@@ -3,8 +3,8 @@ filename = "mae2-1.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8ee944400e11c6cff61efd33b54d76b5a74071ed"
+hash-format = "sha256"
+hash = "9350a070920e8ceec7463ddbad5dc102de354fa898ec03b3b5e8f3c625638ebe"
 mode = "metadata:curseforge"
 
 [update]

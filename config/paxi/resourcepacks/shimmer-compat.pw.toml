@@ -3,8 +3,8 @@ filename = "ShimmerCompat.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1a04b46623d8a2ebd886452cefea6a7ce34a0ab6"
+hash-format = "sha256"
+hash = "2f0936b8556df6d47ab9c0c3ab7de78d833313de5eec2c9d3c3b682eb31ad64d"
 mode = "metadata:curseforge"
 
 [update]

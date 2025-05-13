@@ -3,8 +3,8 @@ filename = "Blooming Blocks 1.19.2-2.2.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c4ad5efc4fdeac2bb791a36b980a0b7ba9d7041"
+hash-format = "sha256"
+hash = "961029c4865c15df7872b5bdcd3192e362e1348f0fe3810946f7aca5c7b09d9d"
 mode = "metadata:curseforge"
 
 [update]

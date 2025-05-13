@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/C3Mtqx9z/versions/alsZh43X/pccard-1.20.1-1.0.15.jar"
-hash-format = "sha512"
-hash = "f8e490659b9a1df9cb9253b85fbbe61dfc9bcc4febf6f1d5acc331301726b3f659eba46ddd49838ff3cfe09da33a73461a9d6da214c4cd030893d91240d78d38"
+hash-format = "sha256"
+hash = "e5fe0518b04c1aff3f309224addd4e242c3dc9d2c272871d1b1d131f10e3f15e"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "steamadditions-1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "874cf1129f3bd7e8c535f74733f3ff52381357f8"
+hash-format = "sha256"
+hash = "0f2b68a32d84eed904664f2e6292222f66b56722de4b763a2b11908357f55263"
 mode = "metadata:curseforge"
 
 [update]

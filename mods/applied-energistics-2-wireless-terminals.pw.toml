@@ -3,8 +3,8 @@ filename = "ae2wtlib-15.2.3-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9a35bc25ba2daade63db76ff4012eb68b0392b08"
+hash-format = "sha256"
+hash = "4b1797edb3307eca6c610c31b371d5a802c124d5052329d3454c065831298199"
 mode = "metadata:curseforge"
 
 [update]

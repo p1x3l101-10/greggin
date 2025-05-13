@@ -3,8 +3,8 @@ filename = "ToolBelt-1.20.1-1.20.02.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3e4e2d2e3ee9486de4c6b64bcf8f25d87d55fc92"
+hash-format = "sha256"
+hash = "717cad5de08223433f9f5ae467cf731288e69564eb7c4c19bcc2b49bc9191c3c"
 mode = "metadata:curseforge"
 
 [update]

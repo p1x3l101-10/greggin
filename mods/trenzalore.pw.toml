@@ -3,8 +3,8 @@ filename = "trenzalore-forge-3.3.10+mc1.20.1-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7295788df92b75b49affb11d13f9fcf0385017fc"
+hash-format = "sha256"
+hash = "e5b2f8554f1a0acecaf568773504a0e3fe26e6f8d94cb279bac03d7c478554e4"
 mode = "metadata:curseforge"
 
 [update]

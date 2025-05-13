@@ -3,8 +3,8 @@ filename = "gtceu-1.20.1-1.6.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8f9705cb309bc862f1abf684717bc6c87165604a"
+hash-format = "sha256"
+hash = "c2ccedc66540cccd8589907f8e9969ee5390440da8c7f429519a302e7b19348d"
 mode = "metadata:curseforge"
 
 [update]

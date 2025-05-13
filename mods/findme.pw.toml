@@ -3,8 +3,8 @@ filename = "findme-3.2.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5f81bfb1ac556bf0eb197aecd0f1fe3b5469ce0"
+hash-format = "sha256"
+hash = "e23c0c503ee271ca351084c5a40411c5921dbf1d97e95fc59c304270977171c6"
 mode = "metadata:curseforge"
 
 [update]

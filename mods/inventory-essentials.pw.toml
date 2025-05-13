@@ -3,8 +3,8 @@ filename = "inventoryessentials-forge-1.20.1-8.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bb25a09a4a01682cec6760e57b2dd6033fde0cf6"
+hash-format = "sha256"
+hash = "2558bf3ea4c7c83c740b64d333670a23fb8f5a39a8766ca67f13b231320ec65c"
 mode = "metadata:curseforge"
 
 [update]
