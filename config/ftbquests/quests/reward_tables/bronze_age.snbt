@@ -1,1 +1,10 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/config/ftbquests/quests/reward_tables/bronze_age.snbt
+{
+	id: "179F585BD4A7D26E"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ count: 32, item: "minecraft:copper_ingot" }
+		{ count: 32, item: "gtceu:tin_ingot" }
+	]
+	title: "bronze_age"
+}

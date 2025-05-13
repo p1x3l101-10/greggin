@@ -1,1 +1,5 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/config/framedblocks-common.toml
+
+[general]
+	#If true, framed blocks are completely fire proof
+	fireproofBlocks = false
+

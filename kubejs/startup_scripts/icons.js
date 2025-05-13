@@ -1,1 +1,5 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/kubejs/startup_scripts/icons.js
+StartupEvents.registry("item", (event) => {
+  event.create("greg_icon");
+});
+
+Platform.mods.kubejs.name = "GregTech Community Pack";

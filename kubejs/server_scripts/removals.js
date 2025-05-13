@@ -1,1 +1,3 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/kubejs/server_scripts/removals.js
+ServerEvents.recipes((event) => {
+  event.remove({ mod: "itemfilters" });
+});

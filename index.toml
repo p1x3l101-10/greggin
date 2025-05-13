@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitmodules"
-hash = "5e63a7a79eef2010da413bb02c8b4a45741e01bdee3babbe04c5a4c02968fbcc"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4c17a419782c0d4ce403fda836c27f4c8e82c701ba28c39a61ab94f18c9c4c29"
 

@@ -1,1 +1,6 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/config/sophisticatedbackpacks-common.toml
+
+#Common Settings
+[common]
+	#Turns on/off loot added to various vanilla chest loot tables
+	chestLootEnabled = true
+

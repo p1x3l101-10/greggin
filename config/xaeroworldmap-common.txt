@@ -1,1 +1,3 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/config/xaeroworldmap-common.txt
+allowCaveModeOnServer:true
+allowNetherCaveModeOnServer:true
+registerStatusEffects:true

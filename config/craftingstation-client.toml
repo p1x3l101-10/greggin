@@ -1,1 +1,5 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/config/craftingstation-client.toml
+
+[general]
+	#Display Items in Table?
+	"display items in table" = true
+

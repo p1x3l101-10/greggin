@@ -1,1 +1,8 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/config/inventorysorter-client.toml
+
+#Inventory sorter modules
+[modules]
+	#Sorting module
+	sortingmodule = true
+	#Wheel move module
+	wheelmovemodule = true
+

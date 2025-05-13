@@ -1,1 +1,13 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/defaultconfigs/ftbessentials-server.snbt
+# Default config file that will be copied to world's serverconfig/ftbessentials.snbt location
+# Copy values you wish to override in here
+# Example:
+# 
+# {
+# 	misc: {
+# 		enderchest: {
+# 			enabled: false
+# 		}
+# 	}
+# }
+
+{ }

@@ -1,1 +1,8 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/kubejs/assets/gtceu/lang/en_us.json
+{
+  "block.gtceu.greenhouse":"Greenhouse", 
+  "gtceu.greenhouse":"Greenhouse",
+  "block.gtceu.construction_core":"Construction Core", 
+  "gtceu.construction_core":"Construction Core",
+
+  "material.gtceu.fluix":"Fluix"
+}

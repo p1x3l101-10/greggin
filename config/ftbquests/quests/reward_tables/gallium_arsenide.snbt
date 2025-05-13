@@ -1,1 +1,10 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/config/ftbquests/quests/reward_tables/gallium_arsenide.snbt
+{
+	id: "1D60D15906F07624"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ count: 4, item: "gtceu:gallium_dust" }
+		{ count: 4, item: "gtceu:arsenic_dust" }
+	]
+	title: "gallium_arsenide"
+}

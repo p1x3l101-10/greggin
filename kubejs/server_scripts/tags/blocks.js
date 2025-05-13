@@ -1,1 +1,3 @@
-/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/kubejs/server_scripts/tags/blocks.js
+ServerEvents.tags("block", (event) => {
+  event.add("forge:mineable/wrench", "travelanchors:travel_anchor");
+});
