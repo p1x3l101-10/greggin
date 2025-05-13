@@ -1041,8 +1041,18 @@ hash = "01fccb8f3abe9c7f542ec610aef0c647bdc5a8ce0677c74e340ba4c2da0614af"
 metafile = true
 
 [[files]]
+file = "mods/gcyr.pw.toml"
+hash = "25086769b8831f7bf694022b049fd69c880b1201cb9cfd90bdd88dac7018c838"
+metafile = true
+
+[[files]]
 file = "mods/glodium.pw.toml"
 hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
+metafile = true
+
+[[files]]
+file = "mods/gregtech-placeable-emitters.pw.toml"
+hash = "db6d6682474615783a6a16890905c450e49d187d2a3dedd9cef291cfadb91814"
 metafile = true
 
 [[files]]

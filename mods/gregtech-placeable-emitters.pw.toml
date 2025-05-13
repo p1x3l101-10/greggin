@@ -1,0 +1,13 @@
+name = "GregTech Placeable Emitters"
+filename = "greg_emitters-1.20.1-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zFPjQErD/versions/q17d8KId/greg_emitters-1.20.1-1.0.9.jar"
+hash-format = "sha512"
+hash = "61eb9df9877bea1bf30b730676e4029425ac9d34552e96c6acd80b0ba0ab2fa5e6d4d2e0b14eaacfb9d6f7983d31d353f4a9feb6dc94dbd53934340e73580027"
+
+[update]
+[update.modrinth]
+mod-id = "zFPjQErD"
+version = "q17d8KId"
