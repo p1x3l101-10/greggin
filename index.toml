@@ -325,6 +325,35 @@ file = "config/patchouli-client.toml"
 hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
 
 [[files]]
+file = "config/paxi/datapacks/.keep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/paxi/resourcepacks/blooming-blocks.pw.toml"
+hash = "bd0387979ba4271704cc4f37d22fb1c684e4043edb3cd95b202a6c31e5f0a116"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/computercraft-greg-flavored.pw.toml"
+hash = "88335384f673dcfd4cad3c28cd23d7318bd084b62a36c87ff19e5e84641b6a27"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/gregtech-refreshed.pw.toml"
+hash = "bb198b3ae869969134f1d012a34bb47f2e8226c12fa4035dddb5fc4092c6bf91"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/gregtech-tooltips.pw.toml"
+hash = "d4b212d8d03a84f2160a215bf028d6b5f3962db2acafb00efa4f32a408ca1482"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/shimmer-compat.pw.toml"
+hash = "cee48445e795e500846f67f9568f486ef91d3255b7717e37370ffaf3986f672c"
+metafile = true
+
+[[files]]
 file = "config/polymorph-integrations.toml"
 hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
@@ -1343,31 +1372,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
-metafile = true
-
-[[files]]
-file = "resourcepacks/blooming-blocks.pw.toml"
-hash = "bd0387979ba4271704cc4f37d22fb1c684e4043edb3cd95b202a6c31e5f0a116"
-metafile = true
-
-[[files]]
-file = "resourcepacks/computercraft-greg-flavored.pw.toml"
-hash = "88335384f673dcfd4cad3c28cd23d7318bd084b62a36c87ff19e5e84641b6a27"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gregtech-refreshed.pw.toml"
-hash = "bb198b3ae869969134f1d012a34bb47f2e8226c12fa4035dddb5fc4092c6bf91"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gregtech-tooltips.pw.toml"
-hash = "d4b212d8d03a84f2160a215bf028d6b5f3962db2acafb00efa4f32a408ca1482"
-metafile = true
-
-[[files]]
-file = "resourcepacks/shimmer-compat.pw.toml"
-hash = "cee48445e795e500846f67f9568f486ef91d3255b7717e37370ffaf3986f672c"
 metafile = true
 
 [[files]]
