@@ -16,8 +16,6 @@ jobs:
       uses: actions/checkout@v2
     - name: Install packwiz
       uses: ./.github/actions/install-packwiz
-    - name: Export for curseforge
-      run: packwiz curseforge export --output curseforge.zip
     - name: Create a prismlauncher instance
       uses: ./.github/actions/generate-prism-pack
       with:
@@ -27,12 +25,10 @@ jobs:
       with:
         name: Bundles
         path: |
-          curseforge.zip
           prismlauncher.zip
     - name: Release
       uses: softprops/action-gh-release@v2
       with:
         files: |
-          curseforge.zip
           prismlauncher.zip
         make_latest: true
