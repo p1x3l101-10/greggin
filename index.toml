@@ -305,6 +305,10 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "eda7204d996eba31bba8a388f641c0826a2610f1e4471cd50803f1969b9cedbd"
 
 [[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "1a5f258f77a60659432055e96537e957b6810407de134db8016caf2a11777bb1"
+
+[[files]]
 file = "config/modelfix-client.toml"
 hash = "dc12493cf9c73ab737fd3e4d39576eadc2c2c11fb730295ab5a34b510fb7d850"
 
