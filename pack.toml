@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "63d1170e06a02f0047edc67e01bde30d3414a479bc66314a488551aa0f58fa49"
+hash = "a7cea26a0bf5f90ccd91cc2517bd2e2c056303eef240cb62d3296d2ca40978d4"
 
 [versions]
 forge = "47.3.6"
@@ -16,3 +16,4 @@ unsup = "1.1.2"
 
 [options]
 acceptable-game-versions = ["1.19.2"]
+datapack-folder = config/paxi/datapacks
