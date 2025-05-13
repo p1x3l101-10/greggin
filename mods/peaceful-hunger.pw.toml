@@ -1,0 +1,13 @@
+name = "Peaceful Hunger"
+filename = "peaceful_hunger-merged-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NGEcCZ3C/versions/r56X8mXH/peaceful_hunger-merged-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "d49df3bf726564c90ae3ee148415aa4a58d522de756ff730b4fac22348bbb6a7c02f992426e9ed4aa9087df121d621c21067b3f9d1464a9ec9c7bde04e750289"
+
+[update]
+[update.modrinth]
+mod-id = "NGEcCZ3C"
+version = "r56X8mXH"

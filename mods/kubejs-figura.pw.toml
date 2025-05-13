@@ -1,0 +1,13 @@
+name = "KubeJS Figura"
+filename = "kubejs_figura-1.20.1-0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pLwqCiz9/versions/tX9ea1hM/kubejs_figura-1.20.1-0.0.7.jar"
+hash-format = "sha512"
+hash = "9db871f044e79882089450155fe779d417f5176ef7a0015d5d284989adb0cf967ec7d1f404b4d3d7a7c731051c8745c111bc2d2771387278c3362663aa697599"
+
+[update]
+[update.modrinth]
+mod-id = "pLwqCiz9"
+version = "tX9ea1hM"

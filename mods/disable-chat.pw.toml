@@ -1,0 +1,13 @@
+name = "Disable chat"
+filename = "disablechat-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SF32jtDg/versions/6LNZ3QAI/disablechat-1.20.1.jar"
+hash-format = "sha512"
+hash = "c1b23d2aa677df0dc008bbd6a05190973c3d2701ae5b22d2cce5b87fe58fb6b99e0fa6b1fd3c0fb1f541ebe80a94b9d650a15f2e2982d7fb604aa9a3849e5e74"
+
+[update]
+[update.modrinth]
+mod-id = "SF32jtDg"
+version = "6LNZ3QAI"

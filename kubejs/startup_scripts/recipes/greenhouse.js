@@ -1,0 +1,1 @@
+/private/var/tmp/.homebrew/Library/Linked/Programs/greggin/./subpacks/GregTech-Modern-Community-Pack/kubejs/startup_scripts/recipes/greenhouse.js

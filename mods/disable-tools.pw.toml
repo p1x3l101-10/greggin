@@ -1,0 +1,13 @@
+name = "Disable Tools"
+filename = "disable_tools-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4ZdHmiO8/versions/X8rOr9bw/disable_tools-1.20.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "236f774c8c52ad60dbbb3b74883d092c512ba2abb670799a810ff7d03eb38f6afb3daeb879cc0101ab1f71fdbefd775205df1a158f3fc652e70680cfe98a5e4a"
+
+[update]
+[update.modrinth]
+mod-id = "4ZdHmiO8"
+version = "X8rOr9bw"

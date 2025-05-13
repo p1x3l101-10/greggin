@@ -1,0 +1,13 @@
+name = "FlightAssistant"
+filename = "flightassistant-forge-3.0.0-alpha.9+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CWqLEOPt/versions/pNQSjV1t/flightassistant-forge-3.0.0-alpha.9%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "99f4c03a0ea185cab328003505207179905d46579619fc0eab763b4cddae5652c23027ad7cc7e6effc51d73cc07e0b09be65b4952da34c976845b3788e681f37"
+
+[update]
+[update.modrinth]
+mod-id = "CWqLEOPt"
+version = "pNQSjV1t"
