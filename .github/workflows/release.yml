@@ -14,8 +14,6 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v2
-    - name: Install packwiz
-      uses: ./.github/actions/install-packwiz
     - name: Create a prismlauncher instance
       uses: ./.github/actions/generate-prism-pack
       with:
