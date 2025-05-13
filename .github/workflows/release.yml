@@ -22,11 +22,9 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Bundles
-        path: |
-          prismlauncher.zip
+        path: prismlauncher.zip
     - name: Release
       uses: softprops/action-gh-release@v2
       with:
-        files: |
-          prismlauncher.zip
+        files: prismlauncher.zip
         make_latest: true
