@@ -1,0 +1,13 @@
+name = "Blooming Blocks"
+filename = "Blooming Blocks 1.19.2-2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c4ad5efc4fdeac2bb791a36b980a0b7ba9d7041"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4533137
+project-id = 637124

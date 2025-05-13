@@ -222,7 +222,7 @@ hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "646d17fc54fb5506302f1669e80055eda4207650c0c7ac418cba6c298949bc15"
+hash = "b844579053d7e492316ca8410ef51b995dab82a457b5cbcc4195d64dd99c8a77"
 
 [[files]]
 file = "config/hangglider-client.toml"
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
@@ -908,11 +908,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "ea969a2c6d77b5e7c8bd8ab8fe52c0c46de676a9cc517f014965699d90c5ed92"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-torches.pw.toml"
-hash = "69aaac3512cc2b6766260d707e28d56d9b53eb7a85532d9fe63052ebb046927c"
 metafile = true
 
 [[files]]
@@ -1062,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "13213fa54c2012b4c90702b03284337acd4e2f102fefcbc53fcce341f5a70bed"
+hash = "a37e11b1b1a3aed1dacb97fabf0f41c4d35951dd5a2a16bfebc14e1d4dc5fbe7"
 metafile = true
 
 [[files]]
@@ -1077,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
+hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
 
 [[files]]
@@ -1112,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
@@ -1227,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
+hash = "be00342cb8a221251aabbd291da2b6be9fc327b750b9e5818313a9da39349180"
 metafile = true
 
 [[files]]
@@ -1338,6 +1333,31 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/blooming-blocks.pw.toml"
+hash = "bd0387979ba4271704cc4f37d22fb1c684e4043edb3cd95b202a6c31e5f0a116"
+metafile = true
+
+[[files]]
+file = "resourcepacks/computercraft-greg-flavored.pw.toml"
+hash = "88335384f673dcfd4cad3c28cd23d7318bd084b62a36c87ff19e5e84641b6a27"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gregtech-refreshed.pw.toml"
+hash = "bb198b3ae869969134f1d012a34bb47f2e8226c12fa4035dddb5fc4092c6bf91"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gregtech-tooltips.pw.toml"
+hash = "d4b212d8d03a84f2160a215bf028d6b5f3962db2acafb00efa4f32a408ca1482"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shimmer-compat.pw.toml"
+hash = "cee48445e795e500846f67f9568f486ef91d3255b7717e37370ffaf3986f672c"
 metafile = true
 
 [[files]]

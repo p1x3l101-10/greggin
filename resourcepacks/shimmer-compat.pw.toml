@@ -1,0 +1,13 @@
+name = "Shimmer Compat"
+filename = "ShimmerCompat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a04b46623d8a2ebd886452cefea6a7ce34a0ab6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5046342
+project-id = 964348

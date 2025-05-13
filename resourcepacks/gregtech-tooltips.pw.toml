@@ -1,0 +1,13 @@
+name = "GregTech Tooltips"
+filename = "GregTech tooltips.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mfSfNMqJ/versions/KtBoniKD/GregTech%20tooltips.zip"
+hash-format = "sha512"
+hash = "385d2c638f2f3d767f16254b18da0ee3b39b1b193b7ee026bf0d26aab75443a2eefe20954c0866280c83aade5b66a35b2ec143bd82457efcd8eae6ddc3f31a22"
+
+[update]
+[update.modrinth]
+mod-id = "mfSfNMqJ"
+version = "KtBoniKD"
