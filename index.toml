@@ -458,6 +458,10 @@ file = "defaultconfigs/sophisticatedbackpacks-server.toml"
 hash = "16064257078b72734d0d52c8c85333f06d9f017bbaf6646c366f3803a510962d"
 
 [[files]]
+file = "icon.png"
+hash = "677187abcafa1df25b0cf2e1a94940bb601b2a8de2d268068a90c7e6f940e439"
+
+[[files]]
 file = "kubejs/assets/emi/category/properties/categories.json"
 hash = "1fec36a6d21f1141d244bb229e94879a34c648b49deb0d6458cb77f64078dc2b"
 
