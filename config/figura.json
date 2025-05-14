@@ -4,6 +4,7 @@
   "nameplate_render": 1,
   "log_location": 1,
   "allow_fp_hands": true,
+  "inventory_scissor": false,
   "action_wheel_button": "key.keyboard.f4",
   "chat_messages": true,
   "allow_networking": true,
