@@ -1,13 +1,13 @@
-name = "Curios API (Forge/NeoForge)"
-filename = "curios-forge-5.12.1+1.20.1.jar"
+name = "Curios API"
+filename = "curios-forge-5.8.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "9e902a43ba65907324a5bfc0d78098927cc791c477268be4a7602eda237b4ece"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vvuO3ImH/versions/6EgL0aP4/curios-forge-5.8.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "c08e6eda72096be64d9c80fd5d4569f456a0001ff975b549e2b32c97df221832efaa75b379ba4cd9bdf8cc5272571b91f262eeab02c692597b288f89603098c6"
 
 [update]
-[update.curseforge]
-file-id = 6238756
-project-id = 309927
+[update.modrinth]
+mod-id = "vvuO3ImH"
+version = "6EgL0aP4"
