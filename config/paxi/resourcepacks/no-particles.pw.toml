@@ -1,0 +1,13 @@
+name = "No Particles"
+filename = "No Particles.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5fXq1bmH/versions/M9xKn6NN/No%20Particles.zip"
+hash-format = "sha512"
+hash = "fb8c689eff315f3a54b2abad0030429f0399fce98dcc731d75439d6bc4e3f168e5c556c594e77abbb87749a8ecdf3b937e892f4d141b44f5dbb5b1fa0965254d"
+
+[update]
+[update.modrinth]
+mod-id = "5fXq1bmH"
+version = "M9xKn6NN"

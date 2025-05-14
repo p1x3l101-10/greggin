@@ -349,6 +349,11 @@ hash = "6c6fabd09db72cb27def98711b51d57744ab8d287a3ef63cd3ced45b53493af1"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/no-particles.pw.toml"
+hash = "41f2dee13aa52830013479bb2c5f703ea3abefb6910c08a95129a13f240749bb"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/shimmer-compat.pw.toml"
 hash = "b2568b53ae99c534e5850034de80b8dd8d638fb98235824b1b959aebd564052d"
 metafile = true
