@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/disable-chat.pw.toml"
-hash = "0aa6ad3aaebc93c78d36aff35c27d4c676a7c664db19dfe905e73a6a8d214c1f"
+hash = "d0655d7fecd5885859b9e8ae9b8506752e02e2f16aa9a9aa5bbdf3f4f6531ead"
 metafile = true
 
 [[files]]
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "629a38f2f478b6bbfbe533c9f710c9d77b967fb98773be5bcadfbb1ca33c0809"
+hash = "1c380f8801e46cf5df003e160dfe084224c47ace00f2a172eb290a6f7baa2cd1"
 metafile = true
 
 [[files]]
