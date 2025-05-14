@@ -54,11 +54,11 @@ hash = "c0e7f7bb0e06a3c8123e5c2190290a6d37435e92f407eb7ba265ce11939bca20"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "7cafb9671670b4e656fd0779badfe159d7befb4a08475c02eb3262542e88fbf8"
+hash = "4ffaa8204563fdb2ac4f2a188b936f060e5ca55c08b5af23b6588e13b48d849d"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "64bc01bfde97f6011e078086f25759524be1703554c3ca6e65d1db0d6d258618"
+hash = "b382f6975d8a9d92d0151ee07c4a3add2436bd4f8a6edf570a9c5b0888ac4d16"
 
 [[files]]
 file = "config/emi.css"
