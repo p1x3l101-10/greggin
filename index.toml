@@ -358,6 +358,11 @@ hash = "41f2dee13aa52830013479bb2c5f703ea3abefb6910c08a95129a13f240749bb"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/noendportaltint.pw.toml"
+hash = "2c16293f39b70dae8316a1860e1c95adc07424433fd9ef02598f2f182855492c"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/raiguri-better-potr.pw.toml"
 hash = "2411d999860d7f3d3007468d6b72cf795bb046f86911910308354e0e44a9c76e"
 metafile = true
@@ -1379,6 +1384,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "04c3949bed6512fd6508ad1426e40a617bcf62af81ff1e747d2efe610c0615e1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-death-messages.pw.toml"
+hash = "b814a26bfed9fdcd20152d07300b9d56a1ece906d2a92e3a70139cc282a16f6a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/metal-pipe-death-sound.pw.toml"
+hash = "1f9c07e7e909125ea0587d924cf895a22b7131c6d7568aaa4cc7559d63d6f3c4"
 metafile = true
 
 [[files]]

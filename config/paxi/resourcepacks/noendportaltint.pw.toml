@@ -1,0 +1,13 @@
+name = "NoEndPortalTint"
+filename = "NoEndPortalTint.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G0NbhDwH/versions/SUwhdmIk/NoEndPortalTint.zip"
+hash-format = "sha512"
+hash = "83640bb6d0d2ed69605da873586fa673095b4612531dd0c4af0f41cd887e008e9a77758f99d112404eaf02c8d3397f35914c347c793186beee0d99f742216289"
+
+[update]
+[update.modrinth]
+mod-id = "G0NbhDwH"
+version = "SUwhdmIk"

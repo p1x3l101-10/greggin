@@ -1,0 +1,13 @@
+name = "Better Death Messages"
+filename = "Better Death Messages.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wkK1CPbY/versions/aKIJg82X/Better%20Death%20Messages.zip"
+hash-format = "sha512"
+hash = "960acc3dd5c0dbce04de7c0da5cec1b7c79ef0daa09d7a31900998b209197799dd479d3f3749526db8f99c568db8c1a06b13385d13ab3827e3c2cfb3358bfc9b"
+
+[update]
+[update.modrinth]
+mod-id = "wkK1CPbY"
+version = "aKIJg82X"

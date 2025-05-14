@@ -1,0 +1,13 @@
+name = "Metal Pipe Death Sound"
+filename = "Metal Pipe Death Sound.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DSqxDQRJ/versions/oyhcXTKO/Metal%20Pipe%20Death%20Sound.zip"
+hash-format = "sha512"
+hash = "6f3e19b3f36451bc78398b59b0388c09d0cf4a339d9afe698481544493233ecde4fe560a287763a9f53f5efb7f8a248d3046640144ec519b4537bffa42361864"
+
+[update]
+[update.modrinth]
+mod-id = "DSqxDQRJ"
+version = "oyhcXTKO"
