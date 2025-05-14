@@ -1,0 +1,13 @@
+name = "Raiguri better POTR"
+filename = "Better-Potr.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BqIuonip/versions/dOssqnKi/Better-Potr.zip"
+hash-format = "sha512"
+hash = "401ba8741537f778f0cf7cb609a504f72b9ddde10d735c1e4f24a5cf0192b9ab3996443da4b40077d740b51155dcf63f6647a352efabdc29582916d1a946bc1d"
+
+[update]
+[update.modrinth]
+mod-id = "BqIuonip"
+version = "dOssqnKi"

@@ -354,6 +354,11 @@ hash = "41f2dee13aa52830013479bb2c5f703ea3abefb6910c08a95129a13f240749bb"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/raiguri-better-potr.pw.toml"
+hash = "2411d999860d7f3d3007468d6b72cf795bb046f86911910308354e0e44a9c76e"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/shimmer-compat.pw.toml"
 hash = "b2568b53ae99c534e5850034de80b8dd8d638fb98235824b1b959aebd564052d"
 metafile = true
