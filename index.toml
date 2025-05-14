@@ -728,6 +728,10 @@ file = "kubejs/server_scripts/storage_drawers/upgrades.js"
 hash = "bd13a7b35349d3003e0f33d71223e22f74beae731b5a5805b4e556c59ac8c3f4"
 
 [[files]]
+file = "kubejs/server_scripts/tags/adpother.js"
+hash = "3b120838bd44c9a8b04761fbaaded8628a10d1f967afc1922c51cdfd9819096e"
+
+[[files]]
 file = "kubejs/server_scripts/tags/ae2.js"
 hash = "5c87d9314fd7b9e4c1b737b8742f01fc88fccebf7e777b3e67bbbd49b7be3d0a"
 
