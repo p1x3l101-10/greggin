@@ -1,0 +1,13 @@
+name = "GT--"
+filename = "gtnn-1.20.1-1.1.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/onpJaUJ0/versions/MHF6PCZ8/gtnn-1.20.1-1.1.13.jar"
+hash-format = "sha512"
+hash = "b85e9b50e70435c2f806e6ed370e1ee7f0008f9df1f31358d80e274e10faf93d6e941fb9657a3c5b54f813b056ee8957b6c6860076da2bd00f535407c650cb94"
+
+[update]
+[update.modrinth]
+mod-id = "onpJaUJ0"
+version = "MHF6PCZ8"

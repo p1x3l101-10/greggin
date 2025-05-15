@@ -4571,6 +4571,11 @@ hash = "f3b0064661340cd4a85799753e0e1cab958c5bf2852f0681dc8ded2f018885e8"
 metafile = true
 
 [[files]]
+file = "mods/eup2p.pw.toml"
+hash = "acd66341fa58e6e956de72b09457ac4ceb95dab66ab9f9573a2642863b7d0326"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "73dd94ec3253d729e22248ec235b5d264a62bb87e6e59fde79ec9955f14c9969"
 metafile = true
@@ -4692,7 +4697,22 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "2200e2dc6b5eb3f85896915d7012348993d9470227dea31b3695d93cd5382599"
+hash = "13213fa54c2012b4c90702b03284337acd4e2f102fefcbc53fcce341f5a70bed"
+metafile = true
+
+[[files]]
+file = "mods/gt-exoskeleton-legs.pw.toml"
+hash = "39b3f2137d043526cd22aae5b14de9d0474452fff112623f01162cbf1f3f2ca4"
+metafile = true
+
+[[files]]
+file = "mods/gtmthings.pw.toml"
+hash = "aece812b485eb1ce8a514335421589f7d2b4c15fb6b5cfc03fe3e10cc2884ab8"
+metafile = true
+
+[[files]]
+file = "mods/gtnn.pw.toml"
+hash = "7423a3b1db092744e9bba4fe3c07f4c48b6c54e010c1a939559505d4c88c4e64"
 metafile = true
 
 [[files]]

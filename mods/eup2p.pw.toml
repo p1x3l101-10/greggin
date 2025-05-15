@@ -1,0 +1,13 @@
+name = "EU P2P Tunnel"
+filename = "eup2p-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yoL9UPAM/versions/llXAzz8D/eup2p-2.0.2.jar"
+hash-format = "sha512"
+hash = "1a6f89d1e6b1fb658e27a7dd320a99bad71914f5cd10ad072ab0b3827cb482273fb4bbdf3abdf4fa7d9069e032b98c9ff9ed07b956e471fd9f2e437d2cf3c224"
+
+[update]
+[update.modrinth]
+mod-id = "yoL9UPAM"
+version = "llXAzz8D"

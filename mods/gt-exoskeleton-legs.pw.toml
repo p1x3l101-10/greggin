@@ -1,0 +1,13 @@
+name = "GT Exoskeleton Legs"
+filename = "gtexolegs-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6574262097c859ed593b62c1ac43902482cf6f4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6415897
+project-id = 1220030
