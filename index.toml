@@ -4696,11 +4696,6 @@ hash = "2200e2dc6b5eb3f85896915d7012348993d9470227dea31b3695d93cd5382599"
 metafile = true
 
 [[files]]
-file = "mods/gtceu_extra.pw.toml"
-hash = "14211847b51c1d5423c04e241a9fd8d6d12ec41ba7421143201b3c0a0c11ac1b"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "ac202fc9ad01d907fdd237081285bcf6512aab4f074343c46fa2a10cb4425cba"
 metafile = true
