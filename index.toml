@@ -4701,6 +4701,11 @@ hash = "13213fa54c2012b4c90702b03284337acd4e2f102fefcbc53fcce341f5a70bed"
 metafile = true
 
 [[files]]
+file = "mods/gt-community-additions.pw.toml"
+hash = "1775bebc3284e6bcd28a1add8b9561c626942066dd1d00c156d386122693ff9e"
+metafile = true
+
+[[files]]
 file = "mods/gt-exoskeleton-legs.pw.toml"
 hash = "39b3f2137d043526cd22aae5b14de9d0474452fff112623f01162cbf1f3f2ca4"
 metafile = true
