@@ -1,0 +1,13 @@
+name = "gtceu_extra"
+filename = "gtceu_extra-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RfG3TJmq/versions/XsCaGBB8/gtceu_extra-0.1.0.jar"
+hash-format = "sha512"
+hash = "8310e0396dfb83c5e16b653e01a13b2bd4f42db8dd3c029993fef5f8a466e7c9e73964f0d1f54bcced399539e4ee663c2e0aa0477471960e0f73c1837ca8989e"
+
+[update]
+[update.modrinth]
+mod-id = "RfG3TJmq"
+version = "XsCaGBB8"
