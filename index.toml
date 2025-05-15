@@ -3805,8 +3805,28 @@ file = "config/ftbxmodcompat.snbt"
 hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
 
 [[files]]
+file = "config/gcyr.yaml"
+hash = "b27940c2bba378f22981d4db07801364d2f26d9ba1037973f61b5ace634466db"
+
+[[files]]
+file = "config/gtca.yaml"
+hash = "bd1e624f07244234414fc6e8a4aec55b997ff780d749e5f8be147ba36c9814d5"
+
+[[files]]
 file = "config/gtceu.yaml"
 hash = "b844579053d7e492316ca8410ef51b995dab82a457b5cbcc4195d64dd99c8a77"
+
+[[files]]
+file = "config/gtexolegs.yaml"
+hash = "52575ffea493a16f3b18e2ba9d1e7ac725221999c99389e176a9cacc15e4fa34"
+
+[[files]]
+file = "config/gtmthings.yaml"
+hash = "8e852306d8e95f0dd349ee876b44722ad9ac49a047dcc63608cf69f851d07648"
+
+[[files]]
+file = "config/gtnn.json"
+hash = "7930fc4639610c7c07c83cf1f9e8fd7965f7ccf70639d86dbd9c226cf432a155"
 
 [[files]]
 file = "config/hangglider-client.toml"
