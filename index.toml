@@ -3917,6 +3917,10 @@ file = "config/paxi/datapacks/.keep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "87fff9e0b0b1e8dcbe278a1db2a5cc3eec5f89eb584e134ce90fd35b83b85904"
+
+[[files]]
 file = "config/paxi/resourcepacks/blooming-blocks.pw.toml"
 hash = "35c83b9d2abede39622fddd4d39fdc686bdeebfbb3318f3c710e37cadb8827f5"
 metafile = true
