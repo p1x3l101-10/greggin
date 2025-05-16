@@ -69,13 +69,9 @@ else
   echo "Unsupported lwjgl"
   exit 1
 fi
-
-# Hook in the keystore
-cp ./keystore.yml $WORKDIR/keystore.yml
-
 pushd $WORKDIR || exit 1
 # Generate merged file
-yq -o yaml -I 2 eval-all '{"components": [.]}' lwjgl.yml minecraft.yml loader.yml extra.yml unsup.yml keystore.yml > merged.yml
+yq -o yaml -I 2 eval-all '{"components": [.]}' lwjgl.yml minecraft.yml loader.yml extra.yml unsup.yml > merged.yml
 awk -v RS="\O" -v ORS="" '{
   gsub("---\ncomponents:\n", "")
 }7' ./merged.yml > processed.yml
@@ -87,11 +83,6 @@ popd || exit 1
 popd || exit 1
 pushd "$1/patches" || exit 1
 envsubst < ./com.unascribed.unsup.yml | yq -o json e > $WORKDIR/patches/com.unascribed.unsup.json
-
-# Hook in the keystore
-cat ./zip.blatt.keystore.yml | yq -o json e > $WORKDIR/patches/zip.blatt.keystore.json
-cp ../cacerts.jks $WORKDIR/cacerts.jks
-
 popd || exit 1
 cp ./unsup.ini $WORKDIR/minecraft/unsup.ini
 cat <<EOF > $WORKDIR/instance.cfg
@@ -105,6 +96,6 @@ if [[ -e ./icon.png ]]; then
   cp ./icon.png $WORKDIR/minecraft/icon.png
 fi
 pushd $WORKDIR || exit 1
-zip -r ./instance.zip ./instance.cfg ./minecraft ./patches ./mmc-pack.json ./cacerts.jks
+zip -r ./instance.zip ./instance.cfg ./minecraft ./patches ./mmc-pack.json
 popd || exit 1
 mv $WORKDIR/instance.zip $2
