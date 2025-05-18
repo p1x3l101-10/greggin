@@ -3201,6 +3201,10 @@ file = "config/adpother/Pollutants/carbon.cfg"
 hash = "0017f81bf63095e4c85f16209b2c92d2664d561bfa4532d2fadbe9af06eecc50"
 
 [[files]]
+file = "config/adpother/Pollutants/dust.cfg"
+hash = "3dbe8785586395ad551a6dc5584bbc3022c98ad8bb365bb4c808b9aeae3ce140"
+
+[[files]]
 file = "config/adpother/Pollutants/sulfur.cfg"
 hash = "4f495e8d1f3f4911a19b98c200892d3f50f48ea7294a89114f31d893dd9f698c"
 
