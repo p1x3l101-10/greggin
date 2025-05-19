@@ -4515,16 +4515,6 @@ hash = "8bbd0419d6291516e7a638a80f4540770b7f19a7983f81fd0d2ffbdecc9d8142"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "d310976d135a61460de49815fdb348ecf722906b640d48f316a3e8ed29416231"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "16f04b164b9781d05acecada11db618dc48568545d4c9dcc8120c55008c200ed"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "029fd71b41cba56c274fa3efa4017e5da7df74c68f761d8066436c305d523297"
 metafile = true
@@ -4662,11 +4652,6 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "7a18e3c4494fd42366d925147a582d299ecb33b191061fcae9293712446e2ecb"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 metafile = true
 
 [[files]]
@@ -4927,11 +4912,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d6078f21514d310c7966d161a3bcf0cc7fd6ef63fb3b0444a0c7cea3551dbcd4"
-metafile = true
-
-[[files]]
-file = "mods/respectproxyoptions.pw.toml"
-hash = "a6bbdad6b7fd7aa0ca19f386e0ac77d0c12fb1bc16917612e4f5f461e393f395"
 metafile = true
 
 [[files]]
