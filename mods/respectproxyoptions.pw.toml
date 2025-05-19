@@ -1,0 +1,11 @@
+name = "RespectProxyOptions"
+filename = "respectproxyoptions-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H2eGHW0D/versions/o7GeTAiZ/respectproxyoptions-1.0.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "H2eGHW0D"
+version = "o7GeTAiZ"

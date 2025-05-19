@@ -4930,6 +4930,11 @@ hash = "d6078f21514d310c7966d161a3bcf0cc7fd6ef63fb3b0444a0c7cea3551dbcd4"
 metafile = true
 
 [[files]]
+file = "mods/respectproxyoptions.pw.toml"
+hash = "92dea17a47c4ebe339506162b59d87aefb2275bff5ab4ce4762e1484959a0f3f"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "40822d840f9b4c1974978304301993f57d31ba4b99c5ef3b29df7376b6f9d93e"
 metafile = true
