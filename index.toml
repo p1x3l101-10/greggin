@@ -4446,7 +4446,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8e2d9efa97f7846335a1f404f2ffcd4f832c1fefaedc89f6a95d07028ff051b2"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -4515,6 +4515,16 @@ hash = "8bbd0419d6291516e7a638a80f4540770b7f19a7983f81fd0d2ffbdecc9d8142"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "029fd71b41cba56c274fa3efa4017e5da7df74c68f761d8066436c305d523297"
 metafile = true
@@ -4552,6 +4562,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+metafile = true
+
+[[files]]
+file = "mods/disx.pw.toml"
+hash = "ca7abbb24d9b4ba532af1f998f14357866cee95888d752d01b108f82dbd1bea8"
 metafile = true
 
 [[files]]
@@ -4647,6 +4662,11 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "7a18e3c4494fd42366d925147a582d299ecb33b191061fcae9293712446e2ecb"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
 
 [[files]]
@@ -4972,6 +4992,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "5ce208a4a53592851a3a1265e9f43e1a5d080ad22eb0337868cbc67d28abd326"
+metafile = true
+
+[[files]]
+file = "mods/touhou-little-maid.pw.toml"
+hash = "2178ac5d307a34749caa2a485389d98301cac98efa3b14fb9ecc129a3d75e504"
 metafile = true
 
 [[files]]
