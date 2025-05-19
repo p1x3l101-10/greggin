@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5fXq1bmH/versions/M9xKn6NN/No%20Particles.zip"
-hash-format = "sha512"
-hash = "fb8c689eff315f3a54b2abad0030429f0399fce98dcc731d75439d6bc4e3f168e5c556c594e77abbb87749a8ecdf3b937e892f4d141b44f5dbb5b1fa0965254d"
+hash-format = "sha256"
+hash = "29b6cd8ff4a7bf5387f6b73cc2cbf1eabd1591d8d1b0ec13ed3e26cc3d244cc4"
 
 [update]
 [update.modrinth]

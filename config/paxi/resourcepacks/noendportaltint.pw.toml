@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/G0NbhDwH/versions/SUwhdmIk/NoEndPortalTint.zip"
-hash-format = "sha512"
-hash = "83640bb6d0d2ed69605da873586fa673095b4612531dd0c4af0f41cd887e008e9a77758f99d112404eaf02c8d3397f35914c347c793186beee0d99f742216289"
+hash-format = "sha256"
+hash = "9f2e7c331cba047a06763919d58b4128d1500ca55220383d6fe2224aa696fae4"
 
 [update]
 [update.modrinth]
