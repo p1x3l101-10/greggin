@@ -4605,11 +4605,6 @@ hash = "73dd94ec3253d729e22248ec235b5d264a62bb87e6e59fde79ec9955f14c9969"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "5cce5a63aaddbef0b80e7d34be935ee769684b4c330c129ce4fa1305cf074eda"
-metafile = true
-
-[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "8a4681c3aa08695c1056fc552997198c907b59da2c254a6a501bc0398db0acb7"
 metafile = true
@@ -4822,11 +4817,6 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "8e16e4a03bb20c12791adecc0419d173d428731599f6a02f328314f9248cf7f2"
-metafile = true
-
-[[files]]
-file = "mods/miners-delight.pw.toml"
-hash = "69851496529d86bd7d167656478ea7ae66d6fd7b035ce31c3e776505141318f0"
 metafile = true
 
 [[files]]
