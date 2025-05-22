@@ -1,0 +1,13 @@
+name = "Hah! Ueuh~"
+filename = "hah_ueuh-1.0.6-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PgQH7uEu/versions/SezzPMO6/hah_ueuh-1.0.6-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "439c10d350c3756f161a19ba242a88a9e29532b27dc448d566e8249ec8be736704d12c4d0c1397d982dfe7697df3d725a1a712671892e60ea325aa28c3a76ad7"
+
+[update]
+[update.modrinth]
+mod-id = "PgQH7uEu"
+version = "SezzPMO6"

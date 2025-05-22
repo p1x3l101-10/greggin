@@ -4750,6 +4750,11 @@ hash = "ac202fc9ad01d907fdd237081285bcf6512aab4f074343c46fa2a10cb4425cba"
 metafile = true
 
 [[files]]
+file = "mods/hah!-ueuh.pw.toml"
+hash = "50d3bb4eb1bd90c72b1734664b36a6fcb218e282c1e5e5becebfda7105f337b8"
+metafile = true
+
+[[files]]
 file = "mods/hang-glider.pw.toml"
 hash = "d911faac163529b413a481509e650bc65e9d2793f108368dd2e701adf6e04a50"
 metafile = true
@@ -4857,6 +4862,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "404df0ea0a22a8cebb7f1290b965d9e02ed849c78d7fa93c14248c4f9db188fa"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
